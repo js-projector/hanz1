@@ -38,17 +38,17 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
+['62882019247922', 'AbiDev', true],
+['62882019247922', 'AbiDev', true],
+['62882019247922', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
+global.nomorbot = '6283844506438'
 global.nomorown = '6288232154376'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
-global.nomorwa = '0'
+global.nomorown1 = '62882019247922'
+global.nomorown2 = '62882019247922'
+global.nomorwa = '62882019247922'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
